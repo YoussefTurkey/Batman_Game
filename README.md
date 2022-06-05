@@ -1,6 +1,6 @@
-# batman
+# Batman Game
 
-A new Flutter project.
+A new flutter teammates project.
 
 ## Getting Started
 
