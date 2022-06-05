@@ -1,4 +1,4 @@
-# batman
+# Batman Game
 
 A new Flutter project.
 
